@@ -10,4 +10,7 @@ At least the water is nice and cold.
 #Directories 
 
 - **shell_scripts/** - Bash scripts from workshop
-- **scripts/** - Code for the Python workshop
+- **scripts/** - Code for the Python worksho
+
+Adding a line that is a mistake. :(
+
