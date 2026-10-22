@@ -6,3 +6,8 @@ This workshop is in the new Shelby Biosciences Building.
 Off of University Blvd.
 
 At least the water is nice and cold.
+
+#Directories 
+
+- **shell_scripts/** - Bash scripts from workshop
+- **scripts/** - Code for the Python workshop
