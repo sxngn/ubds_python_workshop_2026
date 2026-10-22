@@ -4,3 +4,5 @@ a ubds hosted Python workshop covering shell script, Git, and Python. I attended
 
 This workshop is in the new Shelby Biosciences Building. 
 Off of University Blvd.
+
+At least the water is nice and cold.
