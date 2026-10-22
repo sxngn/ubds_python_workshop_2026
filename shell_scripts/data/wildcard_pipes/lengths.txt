@@ -1,0 +1,5 @@
+      15 numbers.txt
+      15 numbers_2.txt
+       6 words.txt
+       6 words_2.txt
+      42 total
